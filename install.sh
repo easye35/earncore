@@ -2,7 +2,7 @@
 # ---------------------------------------------------------------------------
 # EarnBox Installer — single-file, downloadable.
 #
-#   curl -fsSL https://raw.githubusercontent.com/<you>/Raspberry-PI-Earning/main/install.sh -o install.sh
+#   curl -fsSL https://raw.github.com/easye35/earncore/install.sh -o install.sh
 #   chmod +x install.sh
 #   sudo ./install.sh
 #
